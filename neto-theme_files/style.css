@@ -3,10 +3,10 @@ body {
 	background-color:#282828 /*{body|background-colour}*/;
 	background-image: none /*{body|background-image}*/;
 	font-family: 'Montserrat', sans-serif;
-	color:#222222 /*{body|text-colour}*/
+	color:#4e4e4e /*{body|text-colour}*/
 }
 a, a:hover {
-	color: #bbe000 /*{buttons|primary-colour}*/;
+	color: #333333 /*{buttons|primary-colour}*/;
 }
 .navbar-default, .wrapper-header .btn-default {
 	background-color: #22292a /*{header|navigation-background-colour}*/;
