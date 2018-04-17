@@ -1,0 +1,10 @@
+.GRADIENT {
+    background-image: url("GRADIENT.png");
+    position: absolute;
+    left: 0px;
+    top: 388px;
+    width: 1284px;
+    height: 207px;
+    z-index: 340;
+  }
+  
