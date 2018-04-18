@@ -1,4 +1,6 @@
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+
+@import url('https://fonts.googleapis.com/css?family=Rokkitt');
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -982,7 +984,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: 'Rokkitt', serif;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -7139,7 +7141,7 @@ ul.imagelist li .imagethumb {
 }
 .payment-icon {
   width: 60px;
-  background-image: url('//cdn.neto.com.au/assets/neto-cdn/skeletal/2.2.0/paymenticons.svg');
+  background-image: url(https://cdn.neto.com.au/assets/neto-cdn/skeletal/2.2.0/paymenticons.svg);
   background-size: 60px;
 }
 .payment-icon-paypal {
@@ -7630,7 +7632,7 @@ h4 {
 #main-content {
   background: white;
   margin-bottom: 20px;
-  border-radius: 0 0 15px 15px;
+
   padding-bottom: 5px;
   padding-top: 5px;
 }

@@ -28,7 +28,8 @@ a, a:hover {
 	border-radius: none;
 }
 .navigation-list li a, .wrapper-header .btn-default {
-	color: #bbe000 /*{header|navigation-text-colour}*/;
+	color: #fbd0d4 /*{header|navigation-text-colour}*/;
+	background-color: #ed1375 /*{header|navigation-button-colour}*/;
 }
 .wrapper-footer {
 	background-color:#161a1b /*{footer|background-colour}*/;
@@ -57,8 +58,9 @@ a, a:hover {
 
 .btn-primary {
   color: #111;
-  background-color: #bbe000 /*{buttons|primary-colour}*/;
-  border-color: #bbe000 /*{buttons|primary-colour}*/;
+  background-color: #333333 /*{buttons|primary-colour}*/;
+	border-color: #333333 /*{buttons|primary-colour}*/;
+	color: #ffcd34;
 }
 .btn-primary:hover,
 .btn-primary:focus,
