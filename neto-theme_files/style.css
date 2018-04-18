@@ -9,12 +9,12 @@ a, a:hover {
 	color: #333333 /*{buttons|primary-colour}*/;
 }
 .navbar-default, .wrapper-header .btn-default {
-	background-color: #22292a /*{header|navigation-background-colour}*/;
-	border-color: #22292a /*{header|navigation-background-colour}*/;
+	background-color: #ffcd34 /*{header|navigation-background-colour}*/;
+	border-color: none /*{header|navigation-background-colour}*/;
 }
 
 .navbar-default .navbar-nav > li > a,.navbar-default .navbar-nav > li > a:hover,.navbar-default .navbar-nav > li > a:active {
-	color: #bbe000 /*{header|navigation-text-colour}*/;
+	color: #333333 /*{header|navigation-text-colour}*/;
 	font-size: 17px;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
